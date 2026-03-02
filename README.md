@@ -1,7 +1,7 @@
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9vY3M0MWwxb21pbmZ5ZGtvd2IzOWhyZXN3bzN4amE1N3Y1MWxoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="70"/>  Welcome I'm Job 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/job-martinez/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ft.jxb/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ft.kiiwii/)
 
 ## Tech 💻
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
