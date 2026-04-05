@@ -16,8 +16,3 @@
 <br/>
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-## Las estadisticas del repositorio
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jobkhy&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobkhy&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
